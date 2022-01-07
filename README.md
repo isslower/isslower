@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Dosbat.com](Dosbat.com)
 
-- 💬 Ask me about **Linux,MySQL,**
+- 💬 Ask me about **Linux,MySQL**
 
 - 📫 How to reach me **dosbat666@gmail.com**
 
