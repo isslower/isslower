@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm isslower</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A Operation and maintenance engineer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isslower&label=Profile%20views&color=0e75b6&style=flat" alt="isslower" /> </p>
 
@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **Golang,Python**
 
-- 📝 I regularly write articles on [Dosbat.com](Dosbat.com)
-
 - 💬 Ask me about **Linux,MySQL**
-
-- 📫 How to reach me **dosbat666@gmail.com**
 
 - ⚡ Fun fact **Prometheus,Zabbix**
 
